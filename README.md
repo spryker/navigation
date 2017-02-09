@@ -1,6 +1,14 @@
-# Spryker Commerce Framework
+# Navigation Bundle
+[![Build Status](https://travis-ci.org/spryker/Navigation.svg)](https://travis-ci.org/spryker/Navigation)
+[![Coverage Status](https://coveralls.io/repos/github/spryker/Navigation/badge.svg)](https://coveralls.io/github/spryker/Navigation)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/Navigation/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/Navigation/?branch=master)
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker/badges/quality-score.png?b=master&s=25d80f2c1a93b3ae4d907ea8e75800a87469f088)](https://scrutinizer-ci.com/g/spryker/spryker/?branch=master)
-[![Build Status](https://travis-ci.com/spryker/spryker.svg?token=7jVDNZFJxpvBrFetYhbF&branch=master)](https://travis-ci.com/spryker/spryker)
+## Installation
 
-[Documentation - http://spryker.github.io](http://spryker.github.io)
+```
+composer require spryker/navigation
+```
+
+## Documentation
+
+[Spryker Documentation](http://spryker.github.io)
