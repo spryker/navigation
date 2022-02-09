@@ -79,7 +79,6 @@ class NavigationTwigExtension extends TwigExtension
             static::$buffer[$key] = $navigationTreeTransfer;
         }
 
-        /** @var \Generated\Shared\Transfer\NavigationTreeTransfer|null $navigationTreeTransfer */
         $navigationTreeTransfer = static::$buffer[$key];
 
         if (!$navigationTreeTransfer || !$navigationTreeTransfer->getNavigation()->getIsActive()) {
